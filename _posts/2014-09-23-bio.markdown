@@ -1,0 +1,9 @@
+---
+layout: default
+img: david.jpg
+category: Services
+title: Meet Our Instructor
+description: |
+---
+
+<p>David Soto has helluva grip and a pretty good half guard with a particular penchant for getting D'arced.  When he's not fighting out of a D'arce he's struggling out of a guillotine</p>

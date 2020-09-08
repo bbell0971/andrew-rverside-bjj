@@ -1,1 +1,3 @@
 _site
+.jekyll-cache
+s3_website.yml
